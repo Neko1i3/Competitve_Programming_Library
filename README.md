@@ -6,6 +6,7 @@ All the codes were fully written by me, they are free to use for everyone.
 Contents include:
 
 - Graph algorithms
+- Tree algorithms
 - Data structures
 - String algorithms
 - Geometry
