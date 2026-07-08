@@ -10,6 +10,6 @@ Contents include:
 - Data structures
 - String algorithms
 - Geometry
-- Number theory
+- Math
 
 The implementations prioritize correctness and competitive programming usability rather than being production-ready. They are most often given as a part of a problem solution.
